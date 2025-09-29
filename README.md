@@ -7,6 +7,12 @@ This project simulates a **real-time voting system** and showcases how modern da
 I created this project to **demonstrate end-to-end streaming data processing** — from data generation to real-time analytics and visualization.  
 
 ---
+## 🎥 Demo Preview  
+
+Here’s how the real-time election dashboard looks in action 👇  
+
+
+![Real-time Voting Pipeline Demo](./demo.gif)  
 
 ## ✨ Features  
 - 🔹 **Data Simulation** → Generates fake voter & candidate data  
@@ -43,15 +49,6 @@ I created this project to **demonstrate end-to-end streaming data processing** �
 3. `spark-streaming.py` aggregates votes per candidate & turnout by location.  
 4. `streamlit-app.py` displays a **real-time election dashboard** with results.  
 
----
-
-## 🎥 Demo Preview  
-
-Here’s how the real-time election dashboard looks in action 👇  
-
-![Demo Preview](demo.gif)  
-
-*(You can upload your demo video or screen recording as `demo.gif` or link to a YouTube video)*  
 
 ---
 
