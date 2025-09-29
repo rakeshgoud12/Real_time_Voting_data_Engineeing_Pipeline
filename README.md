@@ -1,10 +1,4 @@
 # 🗳️ Real-Time Voting Data Engineering Pipeline  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/rakeshgoud12/Real_time_Voting_data_Engineeing_Pipeline?color=blue&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/rakeshgoud12/Real_time_Voting_data_Engineeing_Pipeline?color=green&style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/rakeshgoud12/Real_time_Voting_data_Engineeing_Pipeline?color=red&style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/rakeshgoud12/Real_time_Voting_data_Engineeing_Pipeline?color=orange&style=flat-square)
-
 ---
 
 ## 🚀 Overview  
