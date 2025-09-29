@@ -25,12 +25,12 @@ Here’s how the real-time election dashboard looks in action 👇
 
 ## 🛠️ Project Structure  
 .
-├── main.py              # Generates candidates & voters, pushes events to Kafka
-├── voting.py            # Consumes voter events, records votes, produces vote stream
-├── spark-streaming.py   # PySpark job for aggregating votes & turnout
-├── streamlit-app.py     # Real-time dashboard with Streamlit
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── main.py           
+├── voting.py          
+├── spark-streaming.py 
+├── streamlit-app.py 
+├── requirements.txt    
+└── README.md     
 
 ---
 
