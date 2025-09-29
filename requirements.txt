@@ -1,0 +1,11 @@
+psycopg2
+simplejson
+confluent-kafka
+kafka-python
+pandas
+numpy
+matplotlib
+streamlit
+streamlit-autorefresh
+pyspark
+requests
