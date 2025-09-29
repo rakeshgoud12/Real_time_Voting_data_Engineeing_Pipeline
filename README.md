@@ -23,8 +23,8 @@ Here’s how the real-time election dashboard looks in action 👇
 
 ---
 
-## 🛠️ Project Structure  
-.
+## 🛠️ Project Structure 
+
 ├── main.py           
 ├── voting.py          
 ├── spark-streaming.py 
